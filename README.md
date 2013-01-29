@@ -1,3 +1,3 @@
-demo-project
+Mike's project
 ============
 New line

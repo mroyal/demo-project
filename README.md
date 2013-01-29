@@ -1,2 +1,2 @@
-demo-project
+ernesto's project
 ============
